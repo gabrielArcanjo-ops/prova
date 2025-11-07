@@ -1,0 +1,2 @@
+Cenário:
+Uma empresa de autopeças recebe pedidos de clientes, a empresa deve receber esse pedido e retorna ao cliente se a peça existe no estoque ou não.
